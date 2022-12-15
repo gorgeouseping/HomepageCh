@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "gorgeouseping"
 description              : &description "personal description"
 url                      : https://gorgeouseping.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
