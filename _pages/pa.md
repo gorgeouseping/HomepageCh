@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Activities"
-permalink: /PA/
+permalink: /pa/
 author_profile: true
 redirect_from:
   - /resume
