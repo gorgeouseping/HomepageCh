@@ -46,9 +46,9 @@ author_profile: true
 
 会议论文
 ======
-+__Y Chen__, L Wang, C Wang and J Li, High accuracy Digital Terrain Models Generation along Roads Using Mobile Laser Scanning Data, FIG Congress 2022.
++ __Y Chen__, L Wang, C Wang and J Li, High accuracy Digital Terrain Models Generation along Roads Using Mobile Laser Scanning Data, FIG Congress 2022.
 
-+Chengzhe Yang, __Y Chen__, Cheng Wang, Jonathan Li, Foreground-background Segmentation of Sequential Point Clouds, IGARSS 2022. [IEEE IGARSS]
++ Chengzhe Yang, __Y Chen__, Cheng Wang, Jonathan Li, Foreground-background Segmentation of Sequential Point Clouds, IGARSS 2022. [IEEE IGARSS]
 
-+G Li, __Y Chen*__, M Cheng, C Wang, J Li, N-DPC: Dense 3D Point Cloud Completion Based on Improved Multi-stage Network,ICCPR 2020. [IEEE ICCPR]
-+Z Sha, __Y Chen*__, W Li, C Wang, A Nurunnabi, J Li, A Boundary-Enhanced Supervoxel Method for Extraction of Road Edges in MLS Point Clouds, The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences,2020. [ISPRS Archives]
++ G Li, __Y Chen*__, M Cheng, C Wang, J Li, N-DPC: Dense 3D Point Cloud Completion Based on Improved Multi-stage Network,ICCPR 2020. [IEEE ICCPR]
++ Z Sha, __Y Chen*__, W Li, C Wang, A Nurunnabi, J Li, A Boundary-Enhanced Supervoxel Method for Extraction of Road Edges in MLS Point Clouds, The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences,2020. [ISPRS Archives]
