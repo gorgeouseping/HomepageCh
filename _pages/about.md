@@ -19,7 +19,7 @@ redirect_from:
 
 近期动态
 ======
-<font color="red"  size=5>_News!_</font>  论文[_Feature Graph Convolution Network with Attentive Fusion for Large-Scale Point Clouds Semantic Segmentation_](https://ieeexplore.ieee.org/abstract/document/10217158)已在IEEE GRSL中发表
+<span style="color: red;font-size: 5;font-style: italic;">News!</span>  论文[_Feature Graph Convolution Network with Attentive Fusion for Large-Scale Point Clouds Semantic Segmentation_](https://ieeexplore.ieee.org/abstract/document/10217158)已在IEEE GRSL中发表
 
 
 教育经历
