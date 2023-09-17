@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "学生培养"
 permalink: /Peoples/
 author_profile: true
 redirect_from:
