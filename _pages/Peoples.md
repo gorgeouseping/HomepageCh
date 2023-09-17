@@ -1,3 +1,10 @@
+---
+layout: archive
+permalink: /Peoples/
+author_profile: true
+redirect_from:
+  - /resume
+---
 # 在读
 ### 博士研究生
 + 刘小雪 (2018)
