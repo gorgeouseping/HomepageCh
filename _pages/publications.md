@@ -9,9 +9,9 @@ author_profile: true
 ======
 + Chen, Jun, __Yiping Chen*__, and Cheng Wang. "[Feature Graph Convolution Network with Attentive Fusion for Large-Scale Point Clouds Semantic Segmentation.](https://ieeexplore.ieee.org/abstract/document/10217158)" _IEEE Geoscience and Remote Sensing Letters (2023)_.
 
-+	Li, Yuan, Long Zhao, __Y Chen*__, Na Zhang, Hongchao Fan, and Zhenxin Zhang. "3D LiDAR and multi-technology collaboration for preservation of built heritage in China: A review." _International Journal of Applied Earth Observation and Geoinformation 116 (2023): 103156._ <font color="red">[JAG] (SCI, IF=7.672, JCR 1 Top)</font>
++	Li, Yuan, Long Zhao, __Y Chen*__, Na Zhang, Hongchao Fan, and Zhenxin Zhang. "[3D LiDAR and multi-technology collaboration for preservation of built heritage in China: A review.](https://www.sciencedirect.com/science/article/pii/S1569843222003442)" _International Journal of Applied Earth Observation and Geoinformation 116 (2023): 103156._ <font color="blue">[JAG] (SCI, IF=7.672, JCR 1 Top)</font>
 
-+	__Y Chen__，Z Luo，W Li，H Lin，A Nurunnabi，Y Lin，C Wang，X Zhang，J Li, WGNet: Wider Graph convolution Networks for 3D Point Cloud Classification with Local Dilated Connecting and Context-Aware，_International Journal of Applied Earth Observation and Geoinformation_,2022.[JAG] (SCI, IF=7.672, JCR 1 Top)
++	__Y Chen__，Z Luo，W Li，H Lin，A Nurunnabi，Y Lin，C Wang，X Zhang，J Li, [WGNet: Wider Graph convolution Networks for 3D Point Cloud Classification with Local Dilated Connecting and Context-Aware](https://www.sciencedirect.com/science/article/pii/S030324342200112X)，_International Journal of Applied Earth Observation and Geoinformation_,2022.[JAG] (SCI, IF=7.672, JCR 1 Top)
 
 +	H Feng, __Y Chen*__, Z Luo, W Sun, W Li, J Li. Automated extraction of building instances from dual-channel airborne LiDAR point clouds. _International Journal of Applied Earth Observation and Geoinformation_, 2022. [JAG] (SCI, IF=7.672, JCR 1 Top)
   
