@@ -5,25 +5,50 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+#{% if author.googlescholar %}
+#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+#{% endif %}
 
-{% include base_path %}
+#{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+#{% for post in site.publications reversed %}
+#  {% include archive-single.html %}
+#{% endfor %}
 
-Education
+期刊论文
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
++ Chen, Jun, __Yiping Chen*__, and Cheng Wang. "Feature Graph Convolution Network with Attentive Fusion for Large-Scale Point Clouds Semantic Segmentation." _IEEE Geoscience and Remote Sensing Letters (2023)_.
 
-Work experience
++	Li, Yuan, Long Zhao, __Y Chen*__, Na Zhang, Hongchao Fan, and Zhenxin Zhang. "3D LiDAR and multi-technology collaboration for preservation of built heritage in China: A review." International Journal of Applied Earth Observation and Geoinformation 116 (2023): 103156. <font color="blue">[JAG] (SCI, IF=7.672, JCR 1 Top)</font>
+
++	__Y Chen__，Z Luo，W Li，H Lin，A Nurunnabi，Y Lin，C Wang，X Zhang，J Li, WGNet: Wider Graph convolution Networks for 3D Point Cloud Classification with Local Dilated Connecting and Context-Aware，International Journal of Applied Earth Observation and Geoinformation,2022.[JAG] (SCI, IF=7.672, JCR 1 Top)
+
++	H Feng, __Y Chen*__, Z Luo, W Sun, W Li, J Li. Automated extraction of building instances from dual-channel airborne LiDAR point clouds. International Journal of Applied Earth Observation and Geoinformation, 2022. [JAG] (SCI, IF=7.672, JCR 1 Top)
+  
++	Y Wang, Y Li, __Y Chen*__, B Yang, C Chen, Z Dong. Automatic registration of point cloud and panoramic images in urban scenes based on pole matching. International Journal of Applied Earth Observation and Geoinformation,2022. [JAG] (SCI, IF=7.672, JCR 1 Top)
+  
++	Lina Fang, Z You, G Sheng, __Y Chen*__, J Li. A joint deep learning network of point clouds and multi-view for roadside objects classification from LiDAR point clouds, ISPRS Journal of Photogrammetry and Remote Sensing, August, 2022. [ISPRS J.] (SCI, IF=11.774 JCR 1, Top)
+  
++	__Y Chen__, R Wu, C Yang, Y Lin*, Urban vegetation segmentation using terrestrial LiDAR point clouds based on point non-local means network, International Journal of Applied Earth Observation and Geoinformation,2021. [JAG] (SCI, IF=7.672, JCR 1 Top)
+  
++	X Yao, __Y Chen*__, D Liu, Z Zhou, V Liesenberg, J. M. Jr, J Li, Average-DInSAR Method for Unstable Escarpments Detection Induced by Underground Coal Mining, International Journal of Applied Earth Observation and Geoinformation, 2021. [JAG] (SCI, IF=7.672, JCR 1 Top)
+  
++	N Wambugu,__ Y Chen*__, Z Xiao, X Liu, A Syedb, C Wang, M Wei, H Zhang, J Li*, A hybrid deep convolutional neural network for accurate land cover classification, International Journal of Applied Earth Observation and Geoinformation, 2021. [JAG] (SCI, IF=7.672, JCR 1区)
+  
++	H Lin, S Wu, __Y Chen*__, W Li, Z Luo, C Wang, J Li*, Semantic segmentation of 3D indoor LiDAR point clouds through feature pyramid architecture search, ISPRS Journal of Photogrammetry and Remote Sensing, 2021. [ISPRS J.] (SCI, IF=11.774 JCR 1, TOP)
+  
++	H Feng, W Li, Z Luo, __Y Chen*__, S Fatholahi, M Cheng, C Wang, J Junior, J Li*, GCN-Based Pavement Crack Detection Using Mobile LiDAR Point Clouds, IEEE Intelligent Transportation Systems Transactions, 2021. [IEEE TITS] (SCI, IF=9.551, JCR 1 Top)
++	M Cheng, G Li, __Y Chen*__, J Chen, C Wang, J Li, Dense Point Cloud Completion based on Generative Adversarial Network, IEEE Transactions on Geoscience and Remote Sensing, 2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top) 
++	H Huang#, __Y Chen#__, R Wang*, A Lightweight Network for Building Extraction from Remote Sensing Images, IEEE Transactions on Geoscience and Remote Sensing,2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top)
++	Z Luo, Z Zhang, W Li, __Y Chen*__, C Wang, A Nurunnabib, J Li*, Detection of individual trees in airborne LiDAR point clouds using a deep learning framework based on multi-channel representation, IEEE Transactions on Geoscience and Remote Sensing,2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top)
++	N Wambugu, __Y Chen*__, Z Xiao, X Liu, A Syedb, C Wang, M Wei, H Zhang, J Li*, Hyperspectral image classification on insufficient-sample and feature learning using deep neural networks: A review, International Journal of Applied Earth Observation and Geoinformation, 105, 102603,2021. [JAG] (SCI, IF=7.672, JCR 1 Top) 
++	J. Gao, __Y Chen*__, J Marcato Jr, C Wang, J Li*, Rapid Extraction of Urban Road Guardrails from Mobile LiDAR Point Clouds，IEEE Transactions on Intelligent Transportation Systems, doi:10.1109/TITS.2020.3025067, 2020. [IEEE TITS] (SCI, IF=9.551, JCR 1 Top)
+
+会议论文
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
++__Y Chen__, L Wang, C Wang and J Li, High accuracy Digital Terrain Models Generation along Roads Using Mobile Laser Scanning Data, FIG Congress 2022.
+
++Chengzhe Yang, __Y Chen__, Cheng Wang, Jonathan Li, Foreground-background Segmentation of Sequential Point Clouds, IGARSS 2022. [IEEE IGARSS]
+
++G Li, __Y Chen*__, M Cheng, C Wang, J Li, N-DPC: Dense 3D Point Cloud Completion Based on Improved Multi-stage Network,ICCPR 2020. [IEEE ICCPR]
++Z Sha, __Y Chen*__, W Li, C Wang, A Nurunnabi, J Li, A Boundary-Enhanced Supervoxel Method for Extraction of Road Edges in MLS Point Clouds, The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences,2020. [ISPRS Archives]
