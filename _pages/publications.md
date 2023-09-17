@@ -5,16 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-#{% if author.googlescholar %}
-#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}
-
-#{% include base_path %}
-
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
-
 期刊论文
 ======
 + Chen, Jun, __Yiping Chen*__, and Cheng Wang. "[Feature Graph Convolution Network with Attentive Fusion for Large-Scale Point Clouds Semantic Segmentation.](https://ieeexplore.ieee.org/abstract/document/10217158)" _IEEE Geoscience and Remote Sensing Letters (2023)_.
