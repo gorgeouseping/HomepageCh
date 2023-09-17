@@ -17,7 +17,12 @@ redirect_from:
 
 在国际顶级期刊发表高水平论文40篇，近五年以第一/通讯作者在ISPRS JPRS、 CVPR、JAG、IEEE TGRS等测绘与遥感领域发表论文20余篇；主持国家自然科学基金、国家重点实验室基金等项目6项；已授权国家发明专利17项；获IEEE JSTARS最佳审稿人奖等奖项。
 
-教育经历：
+近期动态
+======
+<font color="red"  size=5>_News!_</font>  论文[_Feature Graph Convolution Network with Attentive Fusion for Large-Scale Point Clouds Semantic Segmentation_](https://ieeexplore.ieee.org/abstract/document/10217158)已在IEEE GRSL中发表
+
+
+教育经历
 ======
 2001.09-2005.06  国防科技大学，工学学士
 
@@ -41,7 +46,7 @@ redirect_from:
 
 2022.05-至今     中山大学测绘科学与技术学院，副教授
 
-主要学术兼职：
+主要学术兼职
 ======
 IEEE 高级会员  
 
