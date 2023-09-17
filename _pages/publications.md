@@ -17,7 +17,7 @@ author_profile: true
 
 期刊论文
 ======
-+ Chen, Jun, __Yiping Chen*__, and Cheng Wang. "Feature Graph Convolution Network with Attentive Fusion for Large-Scale Point Clouds Semantic Segmentation." _IEEE Geoscience and Remote Sensing Letters (2023)_.
++ Chen, Jun, __Yiping Chen*__, and Cheng Wang. "[Feature Graph Convolution Network with Attentive Fusion for Large-Scale Point Clouds Semantic Segmentation.](https://ieeexplore.ieee.org/abstract/document/10217158)" _IEEE Geoscience and Remote Sensing Letters (2023)_.
 
 +	Li, Yuan, Long Zhao, __Y Chen*__, Na Zhang, Hongchao Fan, and Zhenxin Zhang. "3D LiDAR and multi-technology collaboration for preservation of built heritage in China: A review." _International Journal of Applied Earth Observation and Geoinformation 116 (2023): 103156._ <font color="red">[JAG] (SCI, IF=7.672, JCR 1 Top)</font>
 
