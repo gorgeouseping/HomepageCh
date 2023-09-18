@@ -17,17 +17,17 @@ author_profile: true
   
 +	Y Wang, Y Li, __Y Chen*__, B Yang, C Chen, Z Dong. [Automatic registration of point cloud and panoramic images in urban scenes based on pole matching.](https://doi.org/10.1016/j.jag.2022.103083) _International Journal of Applied Earth Observation and Geoinformation_,2022. [JAG] (SCI, IF=7.672, JCR 1 Top)
   
-+	Lina Fang, Z You, G Sheng, __Y Chen*__, J Li. A joint deep learning network of point clouds and multi-view for roadside objects classification from LiDAR point clouds, _ISPRS Journal of Photogrammetry and Remote Sensing, August_, 2022. [ISPRS J.] (SCI, IF=11.774 JCR 1, Top)
++	Lina Fang, Z You, G Sheng, __Y Chen*__, J Li. [A joint deep learning network of point clouds and multi-view for roadside objects classification from LiDAR point clouds](https://doi.org/10.1016/j.isprsjprs.2022.08.022), _ISPRS Journal of Photogrammetry and Remote Sensing, August_, 2022. [ISPRS J.] (SCI, IF=11.774 JCR 1, Top)
   
-+	__Y Chen__, R Wu, C Yang, Y Lin*, Urban vegetation segmentation using terrestrial LiDAR point clouds based on point non-local means network, _International Journal of Applied Earth Observation and Geoinformation_,2021. [JAG] (SCI, IF=7.672, JCR 1 Top)
++	__Y Chen__, R Wu, C Yang, Y Lin*, [Urban vegetation segmentation using terrestrial LiDAR point clouds based on point non-local means network](https://doi.org/10.1016/j.jag.2021.102580), _International Journal of Applied Earth Observation and Geoinformation_,2021. [JAG] (SCI, IF=7.672, JCR 1 Top)
   
-+	X Yao, __Y Chen*__, D Liu, Z Zhou, V Liesenberg, J. M. Jr, J Li, Average-DInSAR Method for Unstable Escarpments Detection Induced by Underground Coal Mining, _International Journal of Applied Earth Observation and Geoinformation_, 2021. [JAG] (SCI, IF=7.672, JCR 1 Top)
++	X Yao, __Y Chen*__, D Liu, Z Zhou, V Liesenberg, J. M. Jr, J Li, [Average-DInSAR Method for Unstable Escarpments Detection Induced by Underground Coal Mining](https://doi.org/10.1016/j.jag.2021.102489), _International Journal of Applied Earth Observation and Geoinformation_, 2021. [JAG] (SCI, IF=7.672, JCR 1 Top)
   
-+	N Wambugu,__ Y Chen*__, Z Xiao, X Liu, A Syedb, C Wang, M Wei, H Zhang, J Li*, A hybrid deep convolutional neural network for accurate land cover classification, _International Journal of Applied Earth Observation and Geoinformation_, 2021. [JAG] (SCI, IF=7.672, JCR 1区)
++	N Wambugu,__ Y Chen*__, Z Xiao, X Liu, A Syedb, C Wang, M Wei, H Zhang, J Li*, [A hybrid deep convolutional neural network for accurate land cover classification](https://doi.org/10.1016/j.jag.2021.102515), _International Journal of Applied Earth Observation and Geoinformation_, 2021. [JAG] (SCI, IF=7.672, JCR 1区)
   
-+	H Lin, S Wu, __Y Chen*__, W Li, Z Luo, C Wang, J Li*, Semantic segmentation of 3D indoor LiDAR point clouds through feature pyramid architecture search, _ISPRS Journal of Photogrammetry and Remote Sensing_, 2021. [ISPRS J.] (SCI, IF=11.774 JCR 1, TOP)
++	H Lin, S Wu, __Y Chen*__, W Li, Z Luo, C Wang, J Li*, [Semantic segmentation of 3D indoor LiDAR point clouds through feature pyramid architecture search](https://doi.org/10.1016/j.isprsjprs.2021.05.009), _ISPRS Journal of Photogrammetry and Remote Sensing_, 2021. [ISPRS J.] (SCI, IF=11.774 JCR 1, TOP)
   
-+	H Feng, W Li, Z Luo, __Y Chen*__, S Fatholahi, M Cheng, C Wang, J Junior, J Li*, GCN-Based Pavement Crack Detection Using Mobile LiDAR Point Clouds, _IEEE Intelligent Transportation Systems Transactions_, 2021. [IEEE TITS] (SCI, IF=9.551, JCR 1 Top)
++	H Feng, W Li, Z Luo, __Y Chen*__, S Fatholahi, M Cheng, C Wang, J Junior, J Li*, [GCN-Based Pavement Crack Detection Using Mobile LiDAR Point Clouds](10.1109/TITS.2021.3099023), _IEEE Intelligent Transportation Systems Transactions_, 2021. [IEEE TITS] (SCI, IF=9.551, JCR 1 Top)
 +	M Cheng, G Li, __Y Chen*__, J Chen, C Wang, J Li, Dense Point Cloud Completion based on Generative Adversarial Network, _IEEE Transactions on Geoscience and Remote Sensing_, 2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top) 
 +	H Huang#, __Y Chen#__, R Wang*, A Lightweight Network for Building Extraction from Remote Sensing Images, _IEEE Transactions on Geoscience and Remote Sensing_,2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top)
 +	Z Luo, Z Zhang, W Li, __Y Chen*__, C Wang, A Nurunnabib, J Li*, Detection of individual trees in airborne LiDAR point clouds using a deep learning framework based on multi-channel representation, _IEEE Transactions on Geoscience and Remote Sensing_,2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top)
