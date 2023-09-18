@@ -11,6 +11,12 @@ main:
     
   - title: "Professional Activities"
     url: /pa/
+
+  - title: "Projects"
+    url: /Projects/
+    
+  - title: "Intellectual Property"
+    url: /IntellectualP/
     
   - title: "Honours"
     url: /Honours/
