@@ -27,18 +27,18 @@ author_profile: true
   
 +	H Lin, S Wu, __Y Chen*__, W Li, Z Luo, C Wang, J Li*, [Semantic segmentation of 3D indoor LiDAR point clouds through feature pyramid architecture search](https://doi.org/10.1016/j.isprsjprs.2021.05.009), _ISPRS Journal of Photogrammetry and Remote Sensing_, 2021. [ISPRS J.] (SCI, IF=11.774 JCR 1, TOP)
   
-+	H Feng, W Li, Z Luo, __Y Chen*__, S Fatholahi, M Cheng, C Wang, J Junior, J Li*, [GCN-Based Pavement Crack Detection Using Mobile LiDAR Point Clouds](10.1109/TITS.2021.3099023), _IEEE Intelligent Transportation Systems Transactions_, 2021. [IEEE TITS] (SCI, IF=9.551, JCR 1 Top)
-+	M Cheng, G Li, __Y Chen*__, J Chen, C Wang, J Li, Dense Point Cloud Completion based on Generative Adversarial Network, _IEEE Transactions on Geoscience and Remote Sensing_, 2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top) 
-+	H Huang#, __Y Chen#__, R Wang*, A Lightweight Network for Building Extraction from Remote Sensing Images, _IEEE Transactions on Geoscience and Remote Sensing_,2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top)
-+	Z Luo, Z Zhang, W Li, __Y Chen*__, C Wang, A Nurunnabib, J Li*, Detection of individual trees in airborne LiDAR point clouds using a deep learning framework based on multi-channel representation, _IEEE Transactions on Geoscience and Remote Sensing_,2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top)
-+	N Wambugu, __Y Chen*__, Z Xiao, X Liu, A Syedb, C Wang, M Wei, H Zhang, J Li*, Hyperspectral image classification on insufficient-sample and feature learning using deep neural networks: A review, _International Journal of Applied Earth Observation and Geoinformation_, 105, 102603,2021. [JAG] (SCI, IF=7.672, JCR 1 Top) 
-+	J. Gao, __Y Chen*__, J Marcato Jr, C Wang, J Li*, Rapid Extraction of Urban Road Guardrails from Mobile LiDAR Point Clouds，_IEEE Transactions on Intelligent Transportation Systems_, doi:10.1109/TITS.2020.3025067, 2020. [IEEE TITS] (SCI, IF=9.551, JCR 1 Top)
++	H Feng, W Li, Z Luo, __Y Chen*__, S Fatholahi, M Cheng, C Wang, J Junior, J Li*, [GCN-Based Pavement Crack Detection Using Mobile LiDAR Point Clouds](https://ieeexplore.ieee.org/document/9508901), _IEEE Intelligent Transportation Systems Transactions_, 2021. [IEEE TITS] (SCI, IF=9.551, JCR 1 Top)
++	M Cheng, G Li, __Y Chen*__, J Chen, C Wang, J Li, [Dense Point Cloud Completion based on Generative Adversarial Network](https://ieeexplore.ieee.org/abstract/document/9528913), _IEEE Transactions on Geoscience and Remote Sensing_, 2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top) 
++	H Huang#, __Y Chen#__, R Wang*, [A Lightweight Network for Building Extraction from Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9627995), _IEEE Transactions on Geoscience and Remote Sensing_,2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top)
++	Z Luo, Z Zhang, W Li, __Y Chen*__, C Wang, A Nurunnabib, J Li*, [Detection of individual trees in airborne LiDAR point clouds using a deep learning framework based on multi-channel representation](https://ieeexplore.ieee.org/abstract/document/9627111), _IEEE Transactions on Geoscience and Remote Sensing_,2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top)
++	N Wambugu, __Y Chen*__, Z Xiao, X Liu, A Syedb, C Wang, M Wei, H Zhang, J Li*, [Hyperspectral image classification on insufficient-sample and feature learning using deep neural networks: A review](https://doi.org/10.1016/j.jag.2021.102603), _International Journal of Applied Earth Observation and Geoinformation_, 105, 102603,2021. [JAG] (SCI, IF=7.672, JCR 1 Top) 
++	J. Gao, __Y Chen*__, J Marcato Jr, C Wang, J Li*, [Rapid Extraction of Urban Road Guardrails from Mobile LiDAR Point Clouds](https://ieeexplore.ieee.org/abstract/document/9208763)，_IEEE Transactions on Intelligent Transportation Systems_, doi:10.1109/TITS.2020.3025067, 2020. [IEEE TITS] (SCI, IF=9.551, JCR 1 Top)
 
 会议论文
 ======
 + __Y Chen__, L Wang, C Wang and J Li, High accuracy Digital Terrain Models Generation along Roads Using Mobile Laser Scanning Data, FIG Congress 2022.
 
-+ Chengzhe Yang, __Y Chen__, Cheng Wang, Jonathan Li, Foreground-background Segmentation of Sequential Point Clouds, IGARSS 2022. [IEEE IGARSS]
++ Chengzhe Yang, __Y Chen__, Cheng Wang, Jonathan Li, [Foreground-background Segmentation of Sequential Point Clouds](https://ieeexplore.ieee.org/abstract/document/9883255), IGARSS 2022. [IEEE IGARSS]
 
-+ G Li, __Y Chen*__, M Cheng, C Wang, J Li, N-DPC: Dense 3D Point Cloud Completion Based on Improved Multi-stage Network,ICCPR 2020. [IEEE ICCPR]
-+ Z Sha, __Y Chen*__, W Li, C Wang, A Nurunnabi, J Li, A Boundary-Enhanced Supervoxel Method for Extraction of Road Edges in MLS Point Clouds, The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences,2020. [ISPRS Archives]
++ G Li, __Y Chen*__, M Cheng, C Wang, J Li, [N-DPC: Dense 3D Point Cloud Completion Based on Improved Multi-stage Network](https://doi.org/10.1145/3436369.3437421),ICCPR 2020. [IEEE ICCPR]
++ Z Sha, __Y Chen*__, W Li, C Wang, A Nurunnabi, J Li, [A Boundary-Enhanced Supervoxel Method for Extraction of Road Edges in MLS Point Clouds](https://doi.org/10.5194/isprs-archives-XLIII-B1-2020-65-2020), The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences,2020. [ISPRS Archives]
