@@ -13,9 +13,9 @@ author_profile: true
 
 +	__Y Chen__，Z Luo，W Li，H Lin，A Nurunnabi，Y Lin，C Wang，X Zhang，J Li, [WGNet: Wider Graph convolution Networks for 3D Point Cloud Classification with Local Dilated Connecting and Context-Aware](https://www.sciencedirect.com/science/article/pii/S030324342200112X)，_International Journal of Applied Earth Observation and Geoinformation_,2022.[JAG] (SCI, IF=7.672, JCR 1 Top)
 
-+	H Feng, __Y Chen*__, Z Luo, W Sun, W Li, J Li. Automated extraction of building instances from dual-channel airborne LiDAR point clouds. _International Journal of Applied Earth Observation and Geoinformation_, 2022. [JAG] (SCI, IF=7.672, JCR 1 Top)
++	H Feng, __Y Chen*__, Z Luo, W Sun, W Li, J Li. [Automated extraction of building instances from dual-channel airborne LiDAR point clouds.](https://www.sciencedirect.com/science/article/pii/S1569843222002308) _International Journal of Applied Earth Observation and Geoinformation_, 2022. [JAG] (SCI, IF=7.672, JCR 1 Top)
   
-+	Y Wang, Y Li, __Y Chen*__, B Yang, C Chen, Z Dong. Automatic registration of point cloud and panoramic images in urban scenes based on pole matching. _International Journal of Applied Earth Observation and Geoinformation_,2022. [JAG] (SCI, IF=7.672, JCR 1 Top)
++	Y Wang, Y Li, __Y Chen*__, B Yang, C Chen, Z Dong. [Automatic registration of point cloud and panoramic images in urban scenes based on pole matching.](https://doi.org/10.1016/j.jag.2022.103083) _International Journal of Applied Earth Observation and Geoinformation_,2022. [JAG] (SCI, IF=7.672, JCR 1 Top)
   
 +	Lina Fang, Z You, G Sheng, __Y Chen*__, J Li. A joint deep learning network of point clouds and multi-view for roadside objects classification from LiDAR point clouds, _ISPRS Journal of Photogrammetry and Remote Sensing, August_, 2022. [ISPRS J.] (SCI, IF=11.774 JCR 1, Top)
   
