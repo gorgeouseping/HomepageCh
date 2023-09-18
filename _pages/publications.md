@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+代表论文
+======
+{% include base_path %}
+
+{% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
+
+{% for post in sorted_portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
 期刊论文
 ======
 + Chen, Jun, __Yiping Chen*__, and Cheng Wang. "[Feature Graph Convolution Network with Attentive Fusion for Large-Scale Point Clouds Semantic Segmentation.](https://ieeexplore.ieee.org/abstract/document/10217158)" _IEEE Geoscience and Remote Sensing Letters (2023)_.
