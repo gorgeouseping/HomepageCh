@@ -1,6 +1,8 @@
+---
 title: "A joint deep learning network of point clouds and multi-view for roadside objects classification from LiDAR point clouds"
-excerpt: "ISPRS Journal of Photogrammetry and Remote Sensing, August, 2022<br/><img src='/images/AJointDeepLearning.jpg'>"
-collection: portfolio
+collection: publications
+permalink: /publication/AJointDeepLearning
+excerpt: "Lina Fang, Z You, G Sheng, Y Chen*, J Li.<br/>ISPRS Journal of Photogrammetry and Remote Sensing, August, 2022<br/><img src='/images/AJointDeepLearning.jpg'>"
 data: 2022-08-01
 ---
 
