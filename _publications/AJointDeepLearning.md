@@ -3,7 +3,7 @@ title: "A joint deep learning network of point clouds and multi-view for roadsid
 collection: publications
 permalink: /publication/AJointDeepLearning
 excerpt: "Lina Fang, Z You, G Sheng, Y Chen*, J Li.<br/>ISPRS Journal of Photogrammetry and Remote Sensing, August, 2022<br/><img src='/images/AJointDeepLearning.jpg'>"
-data: 2022-08-01
+date: 2022-08-01
 venue: ''
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
