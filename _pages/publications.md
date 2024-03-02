@@ -34,7 +34,7 @@ author_profile: true
   
 +	X Yao, __Y Chen*__, D Liu, Z Zhou, V Liesenberg, J. M. Jr, J Li, [Average-DInSAR Method for Unstable Escarpments Detection Induced by Underground Coal Mining](https://doi.org/10.1016/j.jag.2021.102489), _International Journal of Applied Earth Observation and Geoinformation_, 2021. [JAG] (SCI, IF=7.672, JCR 1 Top)
   
-+	N Wambugu,__Y Chen*__, Z Xiao, X Liu, A Syedb, C Wang, M Wei, H Zhang, J Li*, [A hybrid deep convolutional neural network for accurate land cover classification](https://doi.org/10.1016/j.jag.2021.102515), _International Journal of Applied Earth Observation and Geoinformation_, 2021. [JAG] (SCI, IF=7.672, JCR 1区)
++	N Wambugu, __Y Chen\*__, Z Xiao, X Liu, A Syedb, C Wang, M Wei, H Zhang, J Li \*, [A hybrid deep convolutional neural network for accurate land cover classification](https://doi.org/10.1016/j.jag.2021.102515), _International Journal of Applied Earth Observation and Geoinformation_, 2021. [JAG] (SCI, IF=7.672, JCR 1区)
   
 +	H Lin, S Wu, __Y Chen*__, W Li, Z Luo, C Wang, J Li*, [Semantic segmentation of 3D indoor LiDAR point clouds through feature pyramid architecture search](https://doi.org/10.1016/j.isprsjprs.2021.05.009), _ISPRS Journal of Photogrammetry and Remote Sensing_, 2021. [ISPRS J.] (SCI, IF=11.774 JCR 1, TOP)
   
@@ -44,7 +44,7 @@ author_profile: true
 +	Z Luo, Z Zhang, W Li, __Y Chen*__, C Wang, A Nurunnabib, J Li*, [Detection of individual trees in airborne LiDAR point clouds using a deep learning framework based on multi-channel representation](https://ieeexplore.ieee.org/abstract/document/9627111), _IEEE Transactions on Geoscience and Remote Sensing_,2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top)
 +	N Wambugu, __Y Chen*__, Z Xiao, X Liu, A Syedb, C Wang, M Wei, H Zhang, J Li*, [Hyperspectral image classification on insufficient-sample and feature learning using deep neural networks: A review](https://doi.org/10.1016/j.jag.2021.102603), _International Journal of Applied Earth Observation and Geoinformation_, 105, 102603,2021. [JAG] (SCI, IF=7.672, JCR 1 Top) 
 +	J. Gao, __Y Chen*__, J Marcato Jr, C Wang, J Li*, [Rapid Extraction of Urban Road Guardrails from Mobile LiDAR Point Clouds](https://ieeexplore.ieee.org/abstract/document/9208763), _IEEE Transactions on Intelligent Transportation Systems_, doi:10.1109/TITS.2020.3025067, 2020. [IEEE TITS] (SCI, IF=9.551, JCR 1 Top)
-+	aaaaa
++	bbb
 
 会议论文
 ======
