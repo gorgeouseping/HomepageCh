@@ -9,9 +9,7 @@ redirect_from:
 ---
 副教授，博士生导师
 
-中山大学  
-
-测绘科学与技术学院  
+中山大学测绘科学与技术学院  
 
 邮箱：chenyp79@mail.sysu.edu.cn
 
@@ -57,5 +55,6 @@ redirect_from:
 开源数据集产品：
 ======
 DBNet (LiDAR-Video Driving Dataset: Learning Driving Policies Effectively) 是一个包含三维点云、视频图像、GNSS 和驾驶员行为（速度和方向）的大规模数据集产品, 共涵盖厦门市十余种道路类型，约1000多公里。该城市级别大规模数据集的三维空间点云与二维视频图像等数据, 可为无人驾驶行为决策提供依据，已获全球包含MIT、谷歌等600多个单位与个人的下载使用。欢迎下载使用。  
-产品链接：http://www.dbehavior.net/  
-代码链接：https://github.com/driving-behavior/DBNet
+产品链接：[http://www.dbehavior.net/](http://www.dbehavior.net/ )  
+代码链接：[https://github.com/driving-behavior/DBNet](https://github.com/driving-behavior/DBNet
+)
