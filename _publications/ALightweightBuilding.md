@@ -2,7 +2,7 @@
 title: "A lightweight building instance extraction method based on adaptive optimization of mask contour"
 collection: publications
 permalink: /publication/ALightweightBuilding
-excerpt: "Xiaoxue Liu, Yiping Chen*, Cheng Wang, Kun Tan, Jonathan Li*<br/>International Journal of Applied Earth Observation and Geoinformation, August 2023<br/><img src='/images/AJointDeepLearning.jpg'>"
+excerpt: "Xiaoxue Liu, Yiping Chen*, Cheng Wang, Kun Tan, Jonathan Li*<br/>International Journal of Applied Earth Observation and Geoinformation, August 2023<br/><img src='/images/ALightweightBuilding.jpg'>"
 date: 2023-08-01
 venue: ''
 paperurl: 'http://academicpages.github.io/files/files/AJointDeepLearning.pdf'
