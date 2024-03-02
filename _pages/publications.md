@@ -40,10 +40,10 @@ author_profile: true
   
 +	H Feng, W Li, Z Luo, __Y Chen*__, S Fatholahi, M Cheng, C Wang, J Junior, J Li*, [GCN-Based Pavement Crack Detection Using Mobile LiDAR Point Clouds](https://ieeexplore.ieee.org/document/9508901), _IEEE Intelligent Transportation Systems Transactions_, 2021. [IEEE TITS] (SCI, IF=9.551, JCR 1 Top)
 +	M Cheng, G Li, __Y Chen*__, J Chen, C Wang, J Li, [Dense Point Cloud Completion based on Generative Adversarial Network](https://ieeexplore.ieee.org/abstract/document/9528913), _IEEE Transactions on Geoscience and Remote Sensing_, 2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top) 
-+	H Huang#, __Y Chen#__, R Wang*, [A Lightweight Network for Building Extraction from Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9627995), _IEEE Transactions on Geoscience and Remote Sensing_,2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top)
++	H Huang#, __Y Chen#__, R Wang*, [A Lightweight Network for Building Extraction from Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9627995), _IEEE Transactions on Geoscience and Remote Sensing_, 2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top)
 +	Z Luo, Z Zhang, W Li, __Y Chen*__, C Wang, A Nurunnabib, J Li*, [Detection of individual trees in airborne LiDAR point clouds using a deep learning framework based on multi-channel representation](https://ieeexplore.ieee.org/abstract/document/9627111), _IEEE Transactions on Geoscience and Remote Sensing_,2021. [IEEE TGRS] (SCI IF=8.125, JCR 1 Top)
 +	N Wambugu, __Y Chen*__, Z Xiao, X Liu, A Syedb, C Wang, M Wei, H Zhang, J Li*, [Hyperspectral image classification on insufficient-sample and feature learning using deep neural networks: A review](https://doi.org/10.1016/j.jag.2021.102603), _International Journal of Applied Earth Observation and Geoinformation_, 105, 102603,2021. [JAG] (SCI, IF=7.672, JCR 1 Top) 
-+	J. Gao, __Y Chen*__, J Marcato Jr, C Wang, J Li*, [Rapid Extraction of Urban Road Guardrails from Mobile LiDAR Point Clouds](https://ieeexplore.ieee.org/abstract/document/9208763)，_IEEE Transactions on Intelligent Transportation Systems_, doi:10.1109/TITS.2020.3025067, 2020. [IEEE TITS] (SCI, IF=9.551, JCR 1 Top)
++	J. Gao, __Y Chen*__, J Marcato Jr, C Wang, J Li*, [Rapid Extraction of Urban Road Guardrails from Mobile LiDAR Point Clouds](https://ieeexplore.ieee.org/abstract/document/9208763), _IEEE Transactions on Intelligent Transportation Systems_, doi:10.1109/TITS.2020.3025067, 2020. [IEEE TITS] (SCI, IF=9.551, JCR 1 Top)
 
 会议论文
 ======
