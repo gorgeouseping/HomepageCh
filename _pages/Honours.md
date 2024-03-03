@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Honours"
+title: "获奖"
 permalink: /Honours/
 author_profile: true
 redirect_from:
