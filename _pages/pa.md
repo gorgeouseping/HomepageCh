@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional Activities"
+title: "科学学会服务"
 permalink: /pa/
 author_profile: true
 redirect_from:
@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- 
-科学学会服务
-======
+
 *	IEEE 高级会员
 *	中国图象图形学学会 高级会员
 *	国际摄影测量与遥感学会“激光雷达、激光测高与多传感器融合”工作组联合主席（2023-2026）
