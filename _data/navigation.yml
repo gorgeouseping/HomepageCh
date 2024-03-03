@@ -1,26 +1,28 @@
 # main links links
 main:
-  - title: "About"
+  - title: "首页"
     url: /about/
     
-  - title: "Publications"
+  - title: "论文"
     url: /publications/
 
-  - title: "Talks"
+  - title: "受邀报告"
     url: /Talks/
     
-  - title: "Professional Activities"
+  - title: "社会服务与兼职"
     url: /pa/
 
-  - title: "Projects"
+  - title: "项目"
     url: /Projects/
     
-  - title: "Intellectual Property"
+  - title: "知识产权"
     url: /IntellectualP/
     
-  - title: "Honours"
+  - title: "获奖"
     url: /Honours/
 
-  - title: "Peoples"
+  - title: "团队"
     url: /Peoples/
-
+    
+  - title: "English"
+    url: https://acahomec.github.io/HomeCEn.github.io//
