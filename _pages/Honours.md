@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
++ <span style="color: blue;">《_International Journal of Applied Earth Observation and Geoinformation_》2023年度最佳论文</span>，2023
++ <span style="color: blue;">《_Photogrammetric Record_》最佳编委</span>，2023
 +	<span style="color: blue;">中国遥感应用协会2023年度青年女科学家特等奖</span>，2023
 +	<span style="color: blue;">首届空间信息全球可持续发展国际高端论坛最佳论文奖</span>，2023
 +	<span style="color: blue;">第七届全国激光雷达大会优秀论文奖</span>，2023
