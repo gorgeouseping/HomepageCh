@@ -4,7 +4,9 @@ title: "代表论文"
 permalink: /publications/
 author_profile: true
 ---
+{% bibliography %}
 
+## 待删除
 {% include base_path %}
 
 {% assign sorted_publications = site.publications | sort: 'date' | reverse %}
