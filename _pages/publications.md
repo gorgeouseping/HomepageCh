@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 
-期刊论文
+期刊论文2
 ======
 ## 2023年
 + __Y Chen__, Shuai Zhang*, Weisheng Lin, Shuhang Zhang*, Wuming zhang, [Learning point cloud context information based on 3D transformer for more accurate and efficient classification]( https://doi.org/10.1111/phor.12469)，_The Photogrammetric Record_, 2023(SCI, IF=2.4)
