@@ -1,4 +1,4 @@
-<!--
+
 ---
 layout: archive
 title: "代表论文"
@@ -13,7 +13,8 @@ author_profile: true
 {% for post in sorted_publications %}
   {% include archive-single.html %}
 {% endfor %}
-注释-->
+
+<!--
 ---
 layout: page
 permalink: /publications/
@@ -29,6 +30,7 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+注释-->
 
 期刊论文2
 ======
